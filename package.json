@@ -1,0 +1,8 @@
+{
+    "name": "Cloudbot",
+    "version": "1.0.0",
+    "description": "A discord bot coded by a noob",
+    "main": "bot.js",
+    "author": "End28"
+    "dependencies": {}
+}
